@@ -8,3 +8,9 @@ body {
     background-position: center;
     height: 100vh;
 }
+h1{
+    color: white;
+    font-size: 5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+}
